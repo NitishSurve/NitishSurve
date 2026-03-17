@@ -1,5 +1,10 @@
-# 💫 HI, I am Nitish
-👨‍💻 Data Engineer & Analytics Professional based in Dublin, Ireland<br><br>🔭 I’m currently working on building scalable data pipelines and analytics platforms using Azure, Databricks, SQL, Power BI and Python<br><br>🤝 I’m looking to collaborate on data engineering, cloud data platforms, and open-source analytics projects<br><br>🧠 I’m looking for help with advanced data architecture, real-time streaming pipelines, and large-scale data optimization<br><br>🌱 I’m currently learning advanced Spark optimization, streaming architectures, and modern data platform design<br><br>💬 Ask me about Data Engineering, Azure Data Platform, ETL/ELT pipelines, Databricks, Power BI, and SQL performance tuning<br><br>⚡ Fun fact: I love solving complex data problems and turning messy datasets into meaningful insights 📊
+#  HI, I am Nitish 💫
+👨‍💻 Data Engineer & Analytics Professional based in Dublin, Ireland<br>
+🔭 Building scalable data pipelines and analytics platforms using Azure, Databricks, SQL, Power BI, and Python<br>
+🤝 Open to collaborating on data engineering, cloud data platforms, and analytics projects<br>
+🌱 Currently learning advanced Spark optimization, streaming architectures, and modern data platform design<br>
+💬 Ask me about Data Engineering, ETL/ELT pipelines, Databricks, Azure Data Platform, and SQL performance tuning<br>
+⚡ Fun fact: If I had a superpower, it would be instantly finding the best Spark optimization strategy
 
 
 ## 🌐 Socials:
